@@ -8,8 +8,9 @@ If someone other than myself finds this useful, I think that would be great!
 
 The scripts herein prepare the Health Canada Drug Product Database (HC DPD) data extracts for use by adding column names to the datasets and creating csv files of the datasets with column names added.
 
-Note: Information about the Health Canada Drug Product Database (HC DPD)
-	  can be found on the followingwebsite
+Note: 
+
+	  Information about the Health Canada Drug Product Database (HC DPD) can be found on:
       http://www.hc-sc.gc.ca/dhp-mps/prodpharma/databasdon/index-eng.php
 
       Information about HC DPD Extract
