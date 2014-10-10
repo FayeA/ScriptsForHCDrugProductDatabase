@@ -4,9 +4,10 @@ This is a personal project that I undertook to apply my newly obtained knowledge
 
 If someone other than myself finds this useful, I think that would be great!
 
-===============================
+### Adding column names to the  Health Canada Drug Product Database(HC DPD) Data Extract Files
 
-The scripts herein prepare the Health Canada Drug Product Database (HC DPD) data extracts for use by adding column names to the datasets and creating csv files of the datasets with column names added.
+The script herein prepares the HC DPD data extracts for use by adding column names to the datasets
+and creating csv files of the datasets with column names added.
 
 Note: Information about the Health Canada Drug Product Database (HC DPD)
 	  can be found on the followingwebsite
