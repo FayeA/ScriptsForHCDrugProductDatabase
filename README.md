@@ -4,7 +4,8 @@ This is a personal project that I undertook to apply my newly obtained knowledge
 
 If someone other than myself finds this useful, I think that would be great!
 
-===============================
+
+### Scripts For HC Drug Product Database
 
 The scripts herein prepare the Health Canada Drug Product Database (HC DPD) data extracts for use by adding column names to the datasets and creating csv files of the datasets with column names added.
 
