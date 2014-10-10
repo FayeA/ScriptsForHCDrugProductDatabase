@@ -2,7 +2,7 @@ ScriptsForHCDrugProductDatabase
 ===============================
 This is a personal project that I undertook to apply my newly obtained knowledge about R and at the same time create something that I can use at work! (I am a Clinical Data Manager.  I use the Drug Product Database Online Query (http://webprod5.hc-sc.gc.ca/dpd-bdpp/index-eng.jsp) quite often :)
 
-If someone other than myself finds this useful, I think that would be great!
+If someone other than myself would find this useful, I think that would be great!
 
 ### Adding column names to the  Health Canada Drug Product Database(HC DPD) Data Extract Files
 
